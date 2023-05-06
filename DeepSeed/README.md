@@ -1,4 +1,2 @@
-Installing PyTorch and DeepSpeed: 
-            
-`pip install torch deepspeed`
+Installing PyTorch and DeepSpeed: `pip install torch deepspeed`
   
