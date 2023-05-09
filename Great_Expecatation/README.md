@@ -86,13 +86,6 @@ and then run
 great_expectations init
 ```
 
-(We recommend deploying within a virtual environment. If you’re not familiar with pip, virtual environments, notebooks, or git, you may want to check out the [Supporting Resources](https://docs.greatexpectations.io/docs/terms/supporting_resource/), which will teach you how to get up and running in minutes.)
-
-For full documentation, visit [https://docs.greatexpectations.io/](https://docs.greatexpectations.io/).
-
-If you need help, hop into our [Slack channel](https://greatexpectations.io/slack)&mdash;there are always contributors and other users there. You can also use our [GitHub Discussions](https://github.com/great-expectations/great_expectations/discussions)
-
-
 Integrations
 -------------------------------------------------------------------------------
 Great Expectations works with the tools and systems that you're already using with your data, including:
